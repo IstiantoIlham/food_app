@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hello Happy Food</string>
+    <string name="bahan_bahan">Bahan-bahan</string>
+    <string name="text_panjang">Text panjang</string>
+    <string name="cara_membuat">Cara Membuat</string>
+    <string name="Title">Title</string>
+    <string name="name">Muhammad Istianto Ilham</string>
+    <string name="dec_image">Ini Image</string>
+    <string name="email">Email:</string>
+    <string name="email_content">istianto.pahlawan@gmail.com</string>
+    <string name="instagram">Instagram:</string>
+    <string name="instagram_content">istianto_ilham</string>
+    <string name="school">School:</string>
+    <string name="school_content">SMK IDN Boarding School Solo</string>
+    <string name="hello_happy_food">Hello Happy Food</string>
+</resources>
